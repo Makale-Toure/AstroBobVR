@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Free Demo of Low Poly Space Alien Worlds 3D Asset Pack/Demo Scenes/Space_Forest.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
