@@ -1,8 +1,6 @@
 # 🎮 AstroBob 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![VR Ready](https://img.shields.io/badge/VR-ready-green.svg)]  
-[![GitHub stars](https://img.shields.io/github/stars/ton_nom_d_utilisateur/nom_du_projet.svg)]  
+[![forthebadge](https://forthebadge.com/images/badges/it-works-dont-ask-me.svg)](https://forthebadge.com) [![becauseOfDenisSwag](https://forthebadge.com/images/badges/built-with-swag.svg)](https://www.pixiz.com/template/SWAG-PNG-2119)  [![fakeItUntilUMakeIt](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)]([https://www.pixiz.com/template/SWAG-PNG-2119](https://www.youtube.com/watch?app=desktop&v=kNstaSpMQsE))
 
 Premier projet permettant de découvrir la réalité virtuelle avec Unity !
 
