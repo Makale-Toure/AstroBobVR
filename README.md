@@ -8,8 +8,8 @@ Premier projet permettant de découvrir la réalité virtuelle avec Unity !
 
 ## 🎥 Aperçu
 <p align="center">
-  <img src="./bob.png" alt="AstroBob" width="200" />
-  <img src="./map.png" alt="Map" width="200" />
+  <img src="./bob.png" alt="AstroBob" width=600" />
+  <img src="./map.png" alt="Map" width="600" />
 </p>
 
 ## 🚀 Fonctionnalités
