@@ -7,7 +7,7 @@
 Premier projet permettant de découvrir la réalité virtuelle avec Unity !
 
 ## 🎥 Aperçu
-![Demo GIF ou Screenshot](https://github.com/ton_nom_d_utilisateur/nom_du_projet/path_to_gif_or_image.gif)
+![Demo GIF ou Screenshot](bob.png)
 
 ## 🚀 Fonctionnalités
 
